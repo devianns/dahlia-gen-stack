@@ -66,3 +66,11 @@ images/
 - `01_situations/daily/home_baking/2026-10-16-star-cookie-baking.png` — 별 모양 쿠키 굽기
 - `01_situations/daily/rainy_walk/2026-10-16-after-rain-park-walk.png` — 비가 그친 공원 산책
 - `02_expressions/variety/2026-10-16-six-expressions-sheet.png` — 기쁨·차분함·놀람·수줍음·졸림·결심 표정
+- `01_situations/seasonal/spring_garden/2026-10-16-spring-garden-flower-basket.png` — 봄 정원에서 꽃바구니에 리본을 묶는 달리아
+- `01_situations/seasonal/autumn_park/2026-10-16-autumn-park-lantern.png` — 낙엽 지는 공원에서 등불을 든 산책
+- `01_situations/seasonal/winter_village/2026-10-16-winter-village-lantern.png` — 눈 내리는 마을의 등불 산책
+- `01_situations/work/library/2026-10-16-library-reading.png` — 도서관에서 책을 읽는 모습
+- `01_situations/work/craft_studio/2026-10-16-craft-studio-star-ornament.png` — 별 모양 도자 장식을 채색하는 작업실 장면
+- `01_situations/travel/train/2026-10-16-train-window-journey.png` — 기차 창가에서 산과 구름을 바라보는 여행
+- `03_fantasy/magic/conservatory/2026-10-16-luminous-conservatory.png` — 빛나는 온실에서 푸른 꽃을 살피는 판타지 장면
+- `01_situations/rest/rainy_window/2026-10-16-rainy-window-reading.png` — 비 오는 오후 창가에서 쉬는 모습

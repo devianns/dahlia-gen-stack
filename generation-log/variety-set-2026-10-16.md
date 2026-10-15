@@ -1,78 +1,102 @@
-# 2026-10-16 — 불꽃놀이·단독 무대·일상·표정 세트
+# 달리아 장면 다양화 세트 — 2026-10-16
 
-- 이미지 참조: 생성 입력에 외부 또는 사용자 첨부 이미지를 전달하지 않음. 장면 설명은 사용자의 텍스트 지시에서만 구성.
-- 공통 캐릭터 단서: 긴 진주빛 흰 머리와 옅은 빙청색/라벤더 음영, 선명한 청록빛 파란 눈, 분홍 별 머리핀, 청록 리본, 부드러운 흰 깃털 날개.
-- 생성 도구/모델: 내장 이미지 생성 도구; 모델명 미상. 아래 프롬프트를 각각 독립적으로 입력.
-- 공통 검토: 원본 참고 이미지의 고유 인물이나 문구, 로고, 구도를 포함하지 않음. 일상 복장, 단독 공연, 표정 등 장면 요구와 달리아의 핵심 외형이 구분되어 표현됨.
+- 생성 수: 채택 8장, 보류 1장(온실 의상 길이 재생성)
+- 참조 이미지: 없음. 캐릭터 바이블과 공통 프롬프트의 외형 문장만 사용.
+- 도구/모델: 내장 이미지 생성 도구; 모델명 미상. 이미지별 독립 생성.
+- 공통 검토 기준: 흰색·빙청색·라벤더색 긴 머리, 청록빛 파란 눈, 분홍 별핀, 청록 리본, 흰 깃털 날개, 연령에 적절한 비성적 표현, 손·날개·구도.
 
-## 1. 강가 불꽃놀이와 유카타
+## 봄 정원의 꽃바구니 — 2026-10-16
 
-- 에셋: `../images/01_situations/celebration/fireworks/2026-10-16-fireworks-yukata-watch.png`
-- 보조 태그: 전신, 기쁨과 감탄, 여름 축제, 유카타, 수채화풍.
-- 검토: 강가 난간 옆에서 불꽃놀이를 바라보는 전신. 기모노풍 유카타와 야간 분위기가 표현됐다.
+- 에셋: `../images/01_situations/seasonal/spring_garden/2026-10-16-spring-garden-flower-basket.png`
+- 목적/장면: 봄 정원에서 꽃바구니에 리본을 묶는 장면.
+- 탐구 변수: 무릎을 굽힌 자세, 봄 정원, 수채화·색연필 재료감.
 - 프롬프트:
 
-  > Create an original standalone anime illustration of DAHLIA💫, one character only. Character identity: long flowing pearl-white hair with soft ice-blue and lavender shading, vivid cyan-blue eyes, a small pink star hair clip, cyan ribbon accents, and large soft white feathered angel wings. Scene: a summer fireworks festival at a quiet riverside, DAHLIA watches colorful fireworks bloom far above the water with a joyful, amazed smile. Full-body portrait, head to shoes visible, relaxed standing pose, wings clearly readable. Outfit: modest lavender and ivory yukata with small star-and-flower details, simple sandals, cyan obi cord. Original clean ink-and-watercolor illustration, restrained detail, luminous fireworks and dark indigo sky. The fireworks are only atmospheric background shapes; no text, logos, poster layout, other characters, or copied composition. Age-appropriate and non-sexualized, natural anatomy, no extra limbs/wings, no crop.
+  > Use case: character illustration. Asset type: DAHLIA character project scene asset. Create one original vertical anime illustration of DAHLIA💫 in a spring garden, kneeling beside a small patch of blooming flowers and gently tying a pale blue ribbon around a flower basket. Keep her identity recognizable: very long flowing pearl-white hair shaded pale ice blue and lavender, vivid cyan-blue eyes, small pink star hair clip, cyan ribbon accents, large soft white feathered wings. Modest ivory and pale-blue spring dress with subtle restrained gold details. Three-quarter full-body framing with both feet visible and clear wing silhouette; relaxed warm smile, looking at the flowers. Fresh green garden, soft morning sunlight, a few petals in the breeze, delicate watercolor and colored-pencil texture. Age-appropriate, non-sexualized, natural hands and anatomy, coherent wings. One character only. No text, logo, watermark, extra limbs, extra wings.
 
-## 2. 언덕 위에서 부채와 불꽃놀이
+- 검토: 핵심 머리색·눈색·별핀·리본·양쪽 날개가 보인다. 꽃을 묶는 손동작과 정원 장면이 읽힌다. 발이 보이는 3/4 전신 구도다.
+- 결정: 채택.
 
-- 에셋: `../images/01_situations/celebration/fireworks/2026-10-16-fireworks-hilltop-fan.png`
-- 보조 태그: 전신, 밝은 표정, 여름밤, 부채, 구아슈·색연필풍.
-- 검토: 언덕에서 부채를 든 채 불꽃놀이를 바라보는 장면. 강가 장면과 시점·착장·질감이 다르다.
+## 가을 공원의 등불 — 2026-10-16
+
+- 에셋: `../images/01_situations/seasonal/autumn_park/2026-10-16-autumn-park-lantern.png`
+- 목적/장면: 낙엽이 지는 저녁 공원 산책.
+- 탐구 변수: 전신 보행 포즈, 계절복, 구아슈 질감과 등불 조명.
 - 프롬프트:
 
-  > Create an original standalone illustration of DAHLIA💫, solo. Preserve her long pearl-white hair with pale blue-lavender tips, cyan-blue eyes, pink star clip, cyan ribbon, and white feathered wings. A warm summer night fireworks show is visible across a distant bay; she stands on a grassy lookout, holding a small paper fan and smiling brightly as she looks up. Show her full body from head to footwear, calm open pose. Outfit: everyday ivory blouse, pale-blue cropped jacket, navy ankle-length skirt, comfortable sneakers. Gentle gouache-and-colored-pencil storybook style with visible soft texture, simplified shapes, warm firework reflections and deep blue night. Do not use any provided image as a visual reference; invent an original composition. No other characters, words, logos, readable signs, extra limbs, or cropping. Modest age-appropriate presentation.
+  > Create an original vertical anime character illustration: DAHLIA💫, with very long flowing pearl-white hair shaded pale ice blue and lavender, vivid cyan-blue eyes, a small pink star hair clip, cyan ribbon accents, and large soft white feathered wings. She is walking through a quiet autumn park at golden hour, holding a small paper lantern while looking at falling maple leaves. Modest ivory coat over a pale blue knee-length dress, warm scarf, comfortable boots, subtle gold accents. Full body, both shoes visible, margin around her; gentle reflective expression, natural walking pose, clear wing silhouette. Soft gouache texture, amber leaves against cool blue evening shadows. Age-appropriate, natural anatomy and hands, one character only, no text, logo, watermark, extra limbs or wings.
 
-## 3. 단독 야외 무대 공연
+- 검토: 전신과 신발, 날개 실루엣이 프레임에 들어오고 낙엽·등불로 계절과 행동이 분명하다. 손에 든 등불 형태가 읽힌다.
+- 결정: 채택.
 
-- 에셋: `../images/01_situations/work/solo_stage/2026-10-16-solo-stage-performance.png`
-- 보조 태그: 전신, 자신감, 노래, 무대 의상, 셀 셰이딩.
-- 검토: 마이크를 들고 공연하는 달리아 한 명만 등장한다. 무대 조명과 의상을 새로 구성했다.
+## 도서관 독서 — 2026-10-16
+
+- 에셋: `../images/01_situations/work/library/2026-10-16-library-reading.png`
+- 목적/장면: 아치형 창이 있는 도서관에서 책을 읽는 장면.
+- 탐구 변수: 앉은 중경 구도, 차분한 표정, 잉크 선과 파스텔 구아슈.
 - 프롬프트:
 
-  > Original solo-character anime art of DAHLIA💫 performing on a small outdoor stage at a summer evening concert. Keep her recognizable features: long pearl-white hair shaded ice blue and lavender, cyan-blue eyes, pink star hair clip, cyan ribbon, large white feather wings. Full-body view with both shoes and wings visible; she sings into a handheld microphone with a confident bright smile, one hand lifted naturally. Modest original stage outfit: white tailored jacket, pale-blue knee-length skirt, cyan sash, practical ankle boots, small star accents. Clean graphic cel-shaded style, blue and warm amber stage lights, a few soft spotlights and abstract light shapes. Single performer, no bandmates or audience figures. Avoid event-poster layout, text, logos, copied costume, copied composition, revealing design, extra limbs, cropped feet.
+  > Original vertical anime illustration: DAHLIA💫, very long pearl-white hair shaded ice blue and lavender, vivid cyan-blue eyes, small pink star clip, cyan ribbon, soft white feathered wings. She is reading a book at a small table in a grand quiet library, one hand resting on an open book, thoughtful calm expression, tall shelves and arched windows. Modest white and pale-blue dress with subtle gold trim. Three-quarter view, distinct silhouette, soft cool daylight, refined ink linework and pastel gouache. Age-appropriate, natural hands and anatomy, one character only, no text, logo, watermark, extra limbs or wings.
 
-## 4. 무대 리허설
+- 검토: 독서 행동과 도서관 배경이 명확하며 핵심 색과 날개가 보인다. 책 위 손과 얼굴이 선명하고, 하체는 앉은 구도로 일부 가려진다.
+- 결정: 채택.
 
-- 에셋: `../images/01_situations/work/rehearsal/2026-10-16-solo-stage-rehearsal.png`
-- 보조 태그: 전신, 수줍은 미소, 후드와 스커트, 파스텔 애니.
-- 검토: 본 공연과 달리 편한 후드 차림의 리허설. 마이크 앞에 선 단독 장면이다.
+## 겨울 마을의 등불 — 2026-10-16
+
+- 에셋: `../images/01_situations/seasonal/winter_village/2026-10-16-winter-village-lantern.png`
+- 목적/장면: 눈 내리는 마을 저녁에 등불을 든 모습.
+- 탐구 변수: 두꺼운 겨울 외투, 전신 정면 포즈, 파스텔 연필과 따뜻한 광원.
 - 프롬프트:
 
-  > Original full-body illustration of DAHLIA💫 alone during a quiet stage rehearsal, testing a microphone beneath a single soft spotlight. Preserve the character identity: pearl-white flowing hair with icy-blue and lavender tones, cyan eyes, pink star pin, cyan ribbon, white feathered wings. She wears a comfortable modest rehearsal outfit: pale-blue hoodie, white pleated midi skirt, light sneakers, simple headset resting around her neck. Her expression is cheerful and a little bashful; one hand gives a small wave. Wide view of her entire figure, simple empty stage and muted curtains. Use an original soft pastel-poster-free anime style with loose delicate linework, gentle lavender and blue lighting. One character only; no audience, logos, words, banners, or fireworks. Natural anatomy, no extra limbs/wings, no cropping, age-appropriate.
+  > Original vertical anime illustration: DAHLIA💫, very long pearl-white hair shaded ice blue and lavender, vivid cyan-blue eyes, small pink star clip, cyan ribbon, soft white feathered wings. She stands in a quiet snowy village street at blue hour, holding a warm lantern close while fresh snow falls. Modest pale-blue winter coat, ivory scarf, gloves, boots, no revealing clothing. Full body, both shoes visible, peaceful expression, delicate snowflakes, soft pastel pencil and watercolor, cool blue with warm lantern glow. Age-appropriate, natural anatomy, one character only, no text, logo, watermark, extra limbs or wings.
 
-## 5. 아침 카페에서 차 마시기
+- 검토: 겨울 외투와 눈 풍경, 등불이 장면을 분명히 한다. 두 손이 등불 주변에 모여 있으며 얼굴·날개·별핀은 식별 가능하다.
+- 결정: 채택.
 
-- 에셋: `../images/01_situations/daily/cafe/2026-10-16-morning-cafe-tea.png`
-- 보조 태그: 일상복, 차분한 미소, 수채화풍.
-- 검토: 카페 창가에서 차를 마시는 편안한 장면. 앉은 전신과 신발이 보인다.
+## 기차 창가 여행 — 2026-10-16
+
+- 에셋: `../images/01_situations/travel/train/2026-10-16-train-window-journey.png`
+- 목적/장면: 산과 호수를 지나는 기차 안에서 여행 풍경을 바라봄.
+- 탐구 변수: 앉은 측면 포즈, 여행복과 소품, 셀 셰이딩·색연필 혼합감.
 - 프롬프트:
 
-  > Create a quiet everyday scene with DAHLIA💫 as the only character, seated at a small neighborhood café table in morning light, smiling gently over a cup of tea. Preserve her long white hair with pale ice-blue and lavender shading, vivid cyan-blue eyes, pink star hair clip, cyan ribbon, and soft white wings folded comfortably behind her. Outfit: simple ivory cardigan, pale-blue blouse, navy midi skirt, everyday flats. Show her full seated figure and shoes in a vertical composition; a window, one plant, and a plain cup provide a calm setting. Original delicate watercolor anime illustration with airy paper texture and muted colors; low visual clutter, no magical sparkles. No other people, text, logos, branded objects, or resemblance to any provided image composition. Modest, natural pose and anatomy; no extra limbs or wings.
+  > Original vertical anime illustration: DAHLIA💫 with long pearl-white hair shaded pale ice blue and lavender, cyan-blue eyes, pink star hair clip, cyan ribbon, large soft white feathered wings. She sits by a train window during a scenic journey, watching distant mountains and clouds pass, one hand resting on a closed travel journal. Modest cream and pale-blue travel outfit, navy skirt, small shoulder bag. Three-quarter seated composition, thoughtful expression, clean cel shading with soft colored-pencil texture, daylight reflections. Age-appropriate, natural hands, one character only, no text, logo, watermark, extra limbs or wings.
 
-## 6. 별 모양 쿠키 굽기
+- 검토: 창밖 산과 기차 좌석, 여행 수첩으로 이동 장면이 구분된다. 앉은 자세와 두 손이 보이며 날개 일부는 프레임 밖으로 이어진다.
+- 결정: 채택.
 
-- 에셋: `../images/01_situations/daily/home_baking/2026-10-16-star-cookie-baking.png`
-- 보조 태그: 전신, 즐거운 놀람, 앞치마, 플랫 컬러 애니.
-- 검토: 앞치마를 두르고 쿠키를 내보이는 밝은 실내 장면.
+## 별 장식 공예 작업 — 2026-10-16
+
+- 에셋: `../images/01_situations/work/craft_studio/2026-10-16-craft-studio-star-ornament.png`
+- 목적/장면: 작업실에서 별 모양 도자 장식을 채색함.
+- 탐구 변수: 손과 도구가 보이는 작업 중경, 앞치마, 선명한 잉크선과 구아슈.
 - 프롬프트:
 
-  > Original cheerful daily-life illustration of DAHLIA💫 baking at home, the only character. Keep her identity consistent: very long pearl-white hair with faint ice-blue/lavender shading, cyan-blue eyes, pink star hair clip, cyan ribbon accents, white feathered wings. Full-body view including both feet; she stands at a kitchen counter holding a tray of star-shaped cookies, smiling with delighted surprise. Casual outfit: pale-blue shirt, soft ivory apron over a navy knee-length skirt, simple house slippers; hair tied loosely with a cyan ribbon. Fresh bright morning light, simple tidy kitchen with a few baking items. Use an original bright flat-color anime illustration style with crisp shapes and minimal shading. No other characters, no readable text, logos, copied composition, extra limbs/wings, cropped feet, or ornate costume. Age-appropriate modest presentation.
+  > Original vertical anime illustration: DAHLIA💫, long flowing pearl-white hair with icy-blue and lavender shading, vivid cyan eyes, pink star hair clip, cyan ribbon and soft white feathered wings. In a bright craft studio, she carefully paints a small ceramic star ornament at a worktable, focused gentle smile, brushes and paint jars nearby. Modest pale-blue blouse, ivory apron with tiny gold star clasp. Mid-shot with hands and workspace visible, warm daylight, graphic gouache with crisp ink outlines, restrained palette. Age-appropriate, natural hands, one character only, no legible writing, no logo, watermark, extra limbs or wings.
 
-## 7. 비 온 뒤 공원 산책
+- 검토: 별 모양 장식과 붓·물감으로 작업 목적이 분명하다. 두 손과 도구를 확인할 수 있고 핵심 머리·눈·핀·날개가 유지됐다.
+- 결정: 채택.
 
-- 에셋: `../images/01_situations/daily/rainy_walk/2026-10-16-after-rain-park-walk.png`
-- 보조 태그: 전신, 잔잔한 미소, 바람막이와 긴바지, 구아슈풍.
-- 검토: 비가 갠 뒤 우산을 든 전신 산책 장면. 기존의 치마 중심 착장과 다른 바지 차림이다.
+## 빛나는 온실 탐험 — 2026-10-16
+
+- 에셋: `../images/03_fantasy/magic/conservatory/2026-10-16-luminous-conservatory.png`
+- 목적/장면: 유리 온실의 푸른 꽃을 살펴보는 판타지 장면.
+- 탐구 변수: 전신 판타지 복장, 발광 꽃, 수채화·색연필 질감.
 - 프롬프트:
 
-  > Create an original full-body everyday illustration of DAHLIA💫 walking through a quiet city park after a light rain. Preserve long pearl-white hair with cool blue-lavender shading, cyan-blue eyes, pink star clip, cyan ribbon, and soft white wings. She holds a closed transparent umbrella at her side and smiles at a small rainbow reflected in a puddle. Outfit: pale-blue windbreaker, ivory sweater, navy trousers, comfortable white sneakers. Head to shoes visible, relaxed walking pose with wings folded, bright clearing weather after rain. Original loose-line digital gouache style, soft green trees, pale sky, sparse background details. DAHLIA alone; no other figures, no text, logos, or references to supplied images. Natural anatomy, modest everyday design, no extra limbs/wings or cropping.
+  > Original vertical fantasy anime illustration of DAHLIA💫 exploring a luminous conservatory greenhouse, carefully reaching toward a softly glowing blue flower. Preserve her long flowing pearl-white hair shaded pale ice blue and lavender, vivid cyan-blue eyes, small pink star hair clip, cyan ribbon accents, and two broad soft white feathered wings. Full-body composition, both shoes visible, balanced graceful pose and clear wing silhouette. Dress her in modest layered pale-blue and ivory clothing with a high neckline, long sleeves, and a skirt reaching below the knees, restrained gold details. Ancient glasshouse with colored panes, climbing plants and gentle morning glow. Refined watercolor and colored-pencil texture with luminous but restrained colors. Age-appropriate, non-sexualized, natural hands and anatomy, one character only. No text, logo, watermark, extra limbs, extra wings, short hemline, or other characters.
 
-## 8. 여섯 가지 표정 시트
+- 검토: 양쪽 날개와 전신, 신발, 단정한 긴 치마가 확인된다. 손을 뻗어 꽃을 살피는 동작과 유리 온실 배경이 분명하다.
+- 결정: 채택. 첫 온실 시안은 치마 길이가 계획보다 짧아 보류하고 이 결과로 대체했다.
 
-- 에셋: `../images/02_expressions/variety/2026-10-16-six-expressions-sheet.png`
-- 보조 태그: 기쁨, 차분함, 놀람, 수줍음, 졸림, 결심, 파스텔 라인아트.
-- 검토: 같은 머리 모양과 별·리본 장식을 둔 3×2 표정 배치.
+## 비 오는 날 창가 휴식 — 2026-10-16
+
+- 에셋: `../images/01_situations/rest/rainy_window/2026-10-16-rainy-window-reading.png`
+- 목적/장면: 비 오는 오후 창가에서 책을 덮고 쉬는 모습.
+- 탐구 변수: 가로형 반신 구도, 접힌 날개, 파스텔과 연필 질감.
 - 프롬프트:
 
-  > Create a clean original DAHLIA💫 expression reference sheet on a plain pale cream background. Character identity: long pearl-white hair with pale ice-blue and lavender shading, vivid cyan-blue eyes, pink star hair clip, cyan ribbon accents, soft white feathered wings. Arrange six separate head-and-shoulders portraits of the same character in a neat 3-by-2 grid, each with consistent face and accessories but a distinct expression: joyful open smile, calm gentle smile, surprised wide eyes, shy blush, sleepy yawn, determined confident look. Use a fresh simple pastel line-art style with restrained flat shading and clear readable expressions. Small consistent framing, no overlapping panels. No captions, labels, text, logos, other characters, or copied visual design from supplied images. Keep identity stable across all six portraits.
+  > Original quiet anime illustration: DAHLIA💫 with flowing pearl-white hair shaded icy blue and lavender, vivid cyan eyes, pink star hair clip, cyan ribbon and soft white feathered wings. She rests on a window seat on a rainy afternoon, wrapped in a modest ivory cardigan over a pale-blue dress, quietly watching raindrops and holding a closed book. Half-body composition, relaxed folded wings, sleepy peaceful expression, muted blue-grey palette with a small warm lamp, soft pastel and pencil texture. Age-appropriate, one character only, natural hands, no text, logo, watermark, extra limbs or wings.
+
+- 검토: 빗방울 창과 편안한 자세, 접힌 날개가 휴식 장면을 만든다. 가로형 구도에서 날개와 인물 일부가 프레임에 걸려 있으나 핵심 외형은 식별 가능하다.
+- 결정: 채택.
