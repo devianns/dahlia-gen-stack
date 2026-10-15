@@ -1,0 +1,12 @@
+# Generated raster assets stay local; keep prompts, logs, metadata, and vector/code assets in Git.
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.avif
+*.heic
+*.heif
