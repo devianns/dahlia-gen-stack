@@ -99,3 +99,7 @@ images/
 - `01_situations/travel/polar_station/2026-10-16-wingless-polar-weather-station.png` — 오로라 아래 극지 기상 장비를 확인하는 모습
 - `01_situations/work/science_fair/2026-10-16-wingless-kinetic-science-fair.png` — 달·별 기어 모형을 소개하는 과학 전시
 - `01_situations/travel/botanical_station/2026-10-16-wingless-botanical-train-station.png` — 유리 지붕 기차역의 감귤나무를 살피는 장면
+- `05_poses/standing/full_body/wingless/2026-10-16-wing-off-full-body-transparent.png` — 투명 배경, 잘림 없는 날개 OFF 전신 캐릭터 이미지
+- `05_poses/standing/full_body/wingless/casual/2026-10-16-wing-off-casual-tshirt-shorts.png` — 흰 티셔츠와 파란 반바지, 인사 포즈
+- `05_poses/standing/full_body/wingless/casual/2026-10-16-wing-off-casual-cardigan-skirt.png` — 블라우스·가디건과 무릎 길이 스커트, 토트백
+- `05_poses/standing/full_body/wingless/casual/2026-10-16-wing-off-casual-overalls.png` — 줄무늬 티셔츠와 데님 오버롤
