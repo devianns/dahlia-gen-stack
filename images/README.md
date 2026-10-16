@@ -28,9 +28,11 @@ images/
 │   └── royal/              # 궁정, 의식, 왕실풍 장면
 ├── 04_outfits/             # 의상 디자인이 중심인 시트와 착장 비교
 │   ├── everyday/ fantasy/ seasonal/ formal/
-└── 05_poses/               # 포즈 시트와 동작 비교
+├── 05_poses/               # 포즈 시트와 동작 비교
     ├── standing/           # 전신 서 있는 구도 포함
     ├── sitting/ action/ portrait/
+└── 06_backgrounds/         # 투명 캐릭터를 합성하기 위한 배경판
+    └── for_character/      # 인물 배치 공간이 비어 있는 환경 배경
 ```
 
 `daily/moonlit_window/`와 `fantasy/astral/observatory/`처럼 장면이 축적되면 하위 폴더를 추가합니다. 표정이나 착장 한 가지가 이미지의 주된 목적이면 각각 `02_expressions/` 또는 `04_outfits/`를 우선합니다. 한 이미지가 여러 특성을 가지더라도 복제하지 말고 가장 중요한 목적의 경로 하나를 정한 뒤 다른 특성은 생성 로그의 보조 태그에 적습니다.
@@ -103,3 +105,8 @@ images/
 - `05_poses/standing/full_body/wingless/casual/2026-10-16-wing-off-casual-tshirt-shorts.png` — 흰 티셔츠와 파란 반바지, 인사 포즈
 - `05_poses/standing/full_body/wingless/casual/2026-10-16-wing-off-casual-cardigan-skirt.png` — 블라우스·가디건과 무릎 길이 스커트, 토트백
 - `05_poses/standing/full_body/wingless/casual/2026-10-16-wing-off-casual-overalls.png` — 줄무늬 티셔츠와 데님 오버롤
+- `04_outfits/everyday/no_wings/2026-10-16-everyday-no-wings-full-body.png` — 실제 투명 배경, 가디건과 무릎 길이 스커트의 날개 OFF 전신 컷아웃
+- `06_backgrounds/for_character/beach/2026-10-16-background-beach-center-clear.png` — 중앙 전경을 비워 둔 맑은 해변 배경
+- `06_backgrounds/for_character/forest/2026-10-16-background-forest-clearing.png` — 중앙에 인물이 설 자리를 둔 숲속 공터 배경
+
+합성할 때 캐릭터 발이 닿는 지점을 배경의 전경 바닥면에 맞추고, 광원 방향과 색온도를 배경에 맞춥니다. 이 배경 두 장은 중앙 전경을 비워 두고 인물과 접지 그림자를 얹을 수 있도록 구성했습니다.

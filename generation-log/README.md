@@ -141,3 +141,18 @@
 - 결과: 티셔츠·반바지, 가디건·무릎 길이 스커트, 티셔츠·데님 오버롤의 전신 이미지 3장.
 - 표현: 부드러운 번짐을 줄인 선명한 애니메이션 선화와 셀 셰이딩.
 - 검토/결정: 모두 투명 배경 1024×1536 PNG이며 전신 잘림 없음. 날개 OFF 및 핵심 외형 단서를 확인하고 채택.
+
+## 2026-10-16 — 날개 OFF 가디건 전신 컷아웃
+
+- 상세 프롬프트와 결과 검토: [`wing-off-casual-alpha-cutout-2026-10-16.md`](wing-off-casual-alpha-cutout-2026-10-16.md)
+- 에셋: `../images/04_outfits/everyday/no_wings/2026-10-16-everyday-no-wings-full-body.png`
+- 결과: 1024×1536 RGBA PNG. 네 모서리와 위·아래 경계 중앙의 알파가 0인 실제 투명 배경이며 머리부터 양쪽 신발까지 프레임 안에 들어옴.
+- 검토/결정: 날개와 깃털 없이 핵심 외형 단서, 전신 실루엣, 투명 여백을 확인하고 채택.
+
+## 2026-10-16 — 투명 캐릭터 합성용 배경판 (2장)
+
+- 상세 프롬프트와 검토 기록: [`background-plates-2026-10-16.md`](background-plates-2026-10-16.md)
+- 에셋: `../images/06_backgrounds/for_character/beach/2026-10-16-background-beach-center-clear.png`, `../images/06_backgrounds/for_character/forest/2026-10-16-background-forest-clearing.png`
+- 결과: 해변과 숲 공터의 세로 배경 2장. 인물이 설 중앙 전경을 비우고 수평선/숲길을 후경에 두어 전신 컷아웃 합성을 고려.
+- 도구/모델: 내장 이미지 생성 도구; 모델명 미상. 배경마다 별도 프롬프트로 생성.
+- 검토/결정: 인물·동물·글자 없이 구성된 배경판으로 채택. 합성할 때 발 위치, 광원 방향, 색온도를 맞출 것.
