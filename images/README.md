@@ -74,3 +74,28 @@ images/
 - `01_situations/travel/train/2026-10-16-train-window-journey.png` — 기차 창가에서 산과 구름을 바라보는 여행
 - `03_fantasy/magic/conservatory/2026-10-16-luminous-conservatory.png` — 빛나는 온실에서 푸른 꽃을 살피는 판타지 장면
 - `01_situations/rest/rainy_window/2026-10-16-rainy-window-reading.png` — 비 오는 오후 창가에서 쉬는 모습
+- `01_situations/daily/flower_shop/2026-10-16-wingless-flower-shop.png` — 날개 없는 달리아의 꽃가게 작업
+- `01_situations/daily/cafe/2026-10-16-wingless-cafe-tea.png` — 날개 없는 달리아가 카페에서 차를 마시며 웃는 장면
+- `01_situations/daily/rainy_city/2026-10-16-wingless-rainy-city-walk.png` — 우산을 쓰고 빗속을 걷는 날개 없는 달리아
+- `01_situations/seasonal/autumn_leaf/2026-10-16-wingless-autumn-leaf.png` — 가을 낙엽을 살펴보는 날개 없는 달리아
+- `01_situations/seasonal/ice_skating/2026-10-16-wingless-ice-skating.png` — 빈 링크장에서 스케이트를 타는 날개 없는 달리아
+- `03_fantasy/mythic/moonlit_garden/2026-10-16-wingless-moonlit-garden.png` — 달빛 정원의 별꽃을 살피는 장면
+- `03_fantasy/magic/workshop/2026-10-16-wingless-potion-workshop.png` — 마법 작업실에서 물약을 만드는 장면
+- `02_expressions/wingless_variety/2026-10-16-wingless-six-expressions.png` — 날개 없는 달리아의 여섯 표정 시트
+- `05_poses/action/wingless_dance/2026-10-16-wingless-solo-dance.png` — 연습실의 날개 없는 단독 춤 동작
+- `01_situations/rest/rooftop_night/2026-10-16-wingless-rooftop-rest.png` — 옥상에서 달을 바라보며 쉬는 장면
+- `01_situations/celebration/night_market/2026-10-16-wingless-canal-lantern-market.png` — 운하 야시장에서 등불을 물에 띄우는 날개 없는 달리아
+- `01_situations/travel/aquarium_tunnel/2026-10-16-wingless-underwater-aquarium-tunnel.png` — 수족관 유리 터널에서 물고기 떼를 올려다보는 장면
+- `03_fantasy/adventure/clocktower/2026-10-16-wingless-clocktower-mechanism.png` — 거대한 시계탑에서 별 모양 기어를 움직이는 장면
+- `01_situations/daily/laundromat/2026-10-16-wingless-retro-laundromat.png` — 심야 코인 세탁소에서 수건을 개는 장면
+- `01_situations/travel/mountain_cable_car/2026-10-16-wingless-mountain-cable-car.png` — 산악 케이블카에서 지도를 보며 풍경을 감상
+- `01_situations/daily/natural_history_museum/2026-10-16-wingless-dinosaur-museum.png` — 자연사 박물관의 공룡 화석을 올려다보는 장면
+- `01_situations/daily/retro_arcade/2026-10-16-wingless-retro-arcade.png` — 레트로 오락실에서 리듬 게임을 하는 장면
+- `01_situations/seasonal/sunflower_harvest/2026-10-16-wingless-sunflower-harvest.png` — 해바라기 수확철의 꽃바구니와 들판
+- `01_situations/work/cinema_projection/2026-10-16-wingless-cinema-projection.png` — 오래된 영화관 영사실에서 필름을 끼우는 장면
+- `03_fantasy/adventure/cloud_canyon/2026-10-16-wingless-cloud-canyon-crossing.png` — 구름 협곡 회랑을 건너며 풍경을 바라보는 장면
+- `01_situations/travel/night_ferry/2026-10-16-wingless-night-ferry-map.png` — 야간 페리 객실에서 항로 지도를 읽는 모습
+- `05_poses/action/indoor_climbing/2026-10-16-wingless-indoor-climbing.png` — 안전 하네스를 착용하고 실내 클라이밍을 하는 장면
+- `01_situations/travel/polar_station/2026-10-16-wingless-polar-weather-station.png` — 오로라 아래 극지 기상 장비를 확인하는 모습
+- `01_situations/work/science_fair/2026-10-16-wingless-kinetic-science-fair.png` — 달·별 기어 모형을 소개하는 과학 전시
+- `01_situations/travel/botanical_station/2026-10-16-wingless-botanical-train-station.png` — 유리 지붕 기차역의 감귤나무를 살피는 장면
